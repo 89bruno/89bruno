@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Bruno Noremberg
-- ♻️ I’m a guy starting a career transition
+- 👋 Hi, I’m Bruno Noremberg and I'm starting a career transition
 - 👨‍💻 I’m currently learning Python, SQL, Power BI
 - 🎓 I have strong background in Research and Materials Science (Eng. and Dr.)
 - 📁 I have experience in:
