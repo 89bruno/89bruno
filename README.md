@@ -1,17 +1,14 @@
 - 👋 Hi, I’m Bruno Noremberg and I'm starting a career transition
-- 👨‍💻 I’m currently learning Python, SQL, Power BI
-- 🎓 I have strong background in Research and Materials Science (Eng. and Dr.)
-- 📁 I have experience in:
-   - Microsof Office
-   - English language (Read, Speaking and Listening)
-   - Hardware
-
-- 🧠 In the last few years as research, professor and professional I developed my soft skills:
+- 👨‍💻 Currently, I'm learning Python, SQL, Power BI
+- 🎓 I have strong background in Research and Materials Science (B.Eng., Master and Dr.)
+- 🧠 In the last few years as research, professor, and professional I developed my major soft skills:
    - Resilience;
    - Adaptability
    - Independence;
    - Proactivity
-
+- 📃...and also some hard skills that are usefull for everything
+   - Microsof Office
+   - English language (Read/Write, Speaking and Listening)   
 - 📫 How to reach me:
    - email: norembergbruno@gmail.com 
    - in: https://www.linkedin.com/in/bruno-noremberg-1a996974/
